@@ -2,8 +2,8 @@
 A Graphql API with  CRUD functionality
 
 Tech:
-TypeScript
-GraphQL Yoga
+TypeScript,
+GraphQL Yoga,
 TypeORM,
 TypeGraphQL,
 PostgresSQL
